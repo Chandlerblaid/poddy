@@ -13,7 +13,8 @@
       <itunes:email>eccmt70.cburgess@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.slashfilm.com/img/gallery/samuel-l-jackson-is-shonuff-in-the-last-dragon-remake/intro-import.webp" />
-    <itunes:category text=""/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
     
       <item>
         <title>Atomic Habits ch1</title>
@@ -26,6 +27,7 @@
         <guid>6e39fd9f-b826-4407-8a65-7183b68bbe5f</guid>
         <pubDate>Wed Sep 22 2021 08:56:17 GMT-0700 (PDT)</pubDate>
         <itunes:duration>17:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
@@ -39,6 +41,7 @@
         <guid>c64e0db9-7e5c-40b8-ba27-71ce6c0f2b14</guid>
         <pubDate>Wed Sep 22 2021 18:09:17 GMT-0700 (PDT)</pubDate>
         <itunes:duration>17:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
@@ -52,6 +55,7 @@
         <link>https://drive.google.com/file/d/1Yc7rgOfi4L6KrgkT-kw3BQOPjc_zLQ_W/view?usp=sharing</link>
         <pubDate>Wed Sep 22 2021 18:09:17 GMT-0700 (PDT)</pubDate>
         <itunes:duration>9:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
       </item>
     
   </channel>
