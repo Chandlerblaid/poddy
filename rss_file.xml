@@ -39,5 +39,17 @@
         <itunes:duration>17:39</itunes:duration>
       </item>
     
+      <item>
+        <title>Atomic Habits ch8</title>
+        <itunes:author>James Clear</itunes:author>
+        <itunes:subtitle>An easy proven way to build good habits</itunes:subtitle>
+        <itunes:summary>A book of habits</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://drive.google.com/file/d/1hiR6OaX8sA3Ca0pJ7jqa1cQYzIGhHCmf/view?usp=sharing" length="" type="audio/x-m4a"/>
+        <guid>c64e0db9-7e5c-40b8-ba27-71ce6c0f2b14</guid>
+        <pubDate>Wed Sep 22 2021 18:09:17 GMT-0700 (PDT)</pubDate>
+        <itunes:duration>17:39</itunes:duration>
+      </item>
+    
   </channel>
   </rss>
