@@ -8,6 +8,8 @@
     <itunes:subtitle>A random assortment of audio</itunes:subtitle>
     <itunes:author>Various</itunes:author>
     <itunes:summary>I will be posting things here that I would like to listen to; books, personal audio journals, etc...</itunes:summary>  
+    <description>I will be posting things here that I would like to listen to; books, personal audio journals, etc...</description>  
+    <atom:link href="https://chandlerblaid.github.io/poddy/rss_file.xml" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Barti Henderson</itunes:name>
       <itunes:email>eccmt70.cburgess@gmail.com</itunes:email>
@@ -24,8 +26,8 @@
         <itunes:summary>A book of habits</itunes:summary>
         <itunes:image href="https://www.dropbox.com/s/63159dgkso1q0b5/513Y5o-DYtL.jpg" />
         <enclosure url="https://www.dropbox.com/s/x82l4sdgcceijuk/mp3test%20-%20008.mp3" length="8411287" type="audio/mpeg"/>
-        <guid>6e39fd9f-b826-4407-8a65-7183b68bbe5f</guid>
-        <pubDate>Wed Sep 22 2021 08:56:17 GMT-0700 (PDT)</pubDate>
+        <guid>https://www.dropbox.com/s/x82l4sdgcceijuk/mp3test%20-%20008.mp3</guid>
+        <pubDate>Thu, 23 Sep 2021 02:37:26 +0000</pubDate>
         <itunes:duration>17:39</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
