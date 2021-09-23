@@ -23,38 +23,10 @@
         <itunes:subtitle>An easy proven way to build good habits</itunes:subtitle>
         <itunes:summary>A book of habits</itunes:summary>
         <itunes:image href="https://www.dropbox.com/s/63159dgkso1q0b5/513Y5o-DYtL.jpg?dl=0" />
-        <enclosure url="https://www.dropbox.com/s/x82l4sdgcceijuk/mp3test%20-%20008.mp3?dl=0" length="8411287" type="audio/mpeg"/>
+        <enclosure url="https://www.dropbox.com/s/x82l4sdgcceijuk/mp3test%20-%20008.mp3" length="8411287" type="audio/mpeg"/>
         <guid>6e39fd9f-b826-4407-8a65-7183b68bbe5f</guid>
         <pubDate>Wed Sep 22 2021 08:56:17 GMT-0700 (PDT)</pubDate>
         <itunes:duration>17:39</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-    
-      <item>
-        <title>Atomic Habits ch2</title>
-        <itunes:author>James Clear</itunes:author>
-        <itunes:subtitle>An easy proven way to build good habits</itunes:subtitle>
-        <itunes:summary>A book of habits</itunes:summary>
-        <itunes:image href="https://www.dropbox.com/s/63159dgkso1q0b5/513Y5o-DYtL.jpg?dl=0" />
-        <enclosure url="https://www.dropbox.com/s/ge1stbjhefonrmc/atomic_habits_002.m4b" length="11827916" type="audio/x-m4a"/>
-        <link>https://www.dropbox.com/s/ge1stbjhefonrmc/atomic_habits_002.m4b?dl=0</link>
-        <guid>c64e0db9-7e5c-40b8-ba27-71ce6c0f2b14</guid>
-        <pubDate>Wed Sep 22 2021 18:09:17 GMT-0700 (PDT)</pubDate>
-        <itunes:duration>17:39</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-      </item>
-    
-      <item>
-        <title>Atomic Habits ch8</title>
-        <itunes:author>James Clear</itunes:author>
-        <itunes:subtitle>An easy proven way to build good habits</itunes:subtitle>
-        <itunes:summary>A book of habits</itunes:summary>
-        <itunes:image href="https://www.dropbox.com/s/63159dgkso1q0b5/513Y5o-DYtL.jpg?dl=0" />
-        <enclosure url="https://www.dropbox.com/s/swdt3id5dlt0vdw/atomic_habits_008.m4b" length="8717594" type="audio/mpeg"/>
-        <guid>https://drive.google.com/file/d/1Yc7rgOfi4L6KrgkT-kw3BQOPjc_zLQ_W/view?usp=sharing</guid>
-        <link>https://www.dropbox.com/s/swdt3id5dlt0vdw/atomic_habits_008.m4b?dl=0</link>
-        <pubDate>Wed Sep 22 2021 18:09:17 GMT-0700 (PDT)</pubDate>
-        <itunes:duration>9:09</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
