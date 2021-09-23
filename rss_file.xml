@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Random Streams</title>
+    <link>https://github.com/Chandlerblaid/poddy</link>
+    <language></language>
+    <copyright>Barti Copyright 2021</copyright>
+    <itunes:subtitle>A random assortment of audio</itunes:subtitle>
+    <itunes:author>Various</itunes:author>
+    <itunes:summary>I will be posting things here that I would like to listen to; books, personal audio journals, etc...</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Barti Henderson</itunes:name>
+      <itunes:email>eccmt70.cburgess@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.slashfilm.com/img/gallery/samuel-l-jackson-is-shonuff-in-the-last-dragon-remake/intro-import.webp" />
+    <itunes:category text=""/>
+    
+      <item>
+        <title>Atomic Habits ch1</title>
+        <itunes:author>James Clear</itunes:author>
+        <itunes:subtitle>An easy proven way to build good habits</itunes:subtitle>
+        <itunes:summary>A book of habits</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://drive.google.com/file/d/1CnsQlwsmuppaUyab-C0DiO9mcja2NR2Q/view?usp=sharing" length="" type="audio/x-m4a"/>
+        <guid>6e39fd9f-b826-4407-8a65-7183b68bbe5f</guid>
+        <pubDate>Wed Sep 22 2021 08:56:17 GMT-0700 (PDT)</pubDate>
+        <itunes:duration>17:39</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
